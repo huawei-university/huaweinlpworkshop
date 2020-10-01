@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Huawei NLP Workshop
 
-You can use the [editor on GitHub](https://github.com/huawei-university/huaweinlpworkshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Huawei Russian Research Institute is organising Huawei NLP Workshop. The prospect date is **27.11.2020**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Speakers
+We welcome our speakers, from academia and from Huawei Research (alphabetically):
 
-### Markdown
+* Anna Rumshiski
+* Andrey Kutuzov
+* Mehdi Rezagholizade
+* Michael Galkin
+* Milan Gritta
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We announce the themes of the presentations in a meantime.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huawei-university/huaweinlpworkshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contacts
+If you have any questions, you could write an email to Valentin Malykh 
