@@ -10,6 +10,7 @@ We welcome our speakers, from academia and from Huawei Research (alphabetically)
 * Mehdi Rezagholizade
 * Michael Galkin
 * Milan Gritta
+* Serge Sharoff
 
 We announce the themes of the presentations in a meantime.
 
