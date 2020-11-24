@@ -1,6 +1,6 @@
 # Huawei NLP Workshop
 
-Huawei Russian Research Institute is organising Huawei NLP Workshop. The date is **27.11.2020**. The workshop will be help online. Please join the discussion [group](https://t.me/joinchat/DDlYRxZBezEtV8VWAgSBAw) in Telegram.
+Huawei Russian Research Institute is organising Huawei NLP Workshop. The workshop will be held online at **27.11.2020**, the starting time is **09.55** MSK (UTC+3).  Please join the discussion [group](https://t.me/joinchat/DDlYRxZBezEtV8VWAgSBAw) in Telegram, we publish a link for the workshop there.
 
 ## Speakers
 We welcome our speakers, from academia and from Huawei Research (alphabetically):
